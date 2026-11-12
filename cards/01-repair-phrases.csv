@@ -1,0 +1,44 @@
+#separator:Semicolon
+#html:false
+#columns:Front;Back;Tags
+#tags column:3
+Извините, не могли бы вы повторить?;Sorry, could you repeat that?;english repair repair-ask
+Можете сказать ещё раз помедленнее?;Could you say that again more slowly?;english repair repair-ask
+Извините, я не расслышал последнюю часть.;Sorry, I didn't catch the last part.;english repair repair-ask
+Что значит …?;What does … mean?;english repair repair-ask
+Можете привести пример?;Could you give me an example?;english repair repair-ask
+Можете написать это в чат, пожалуйста?;Could you type that in the chat, please?;english repair repair-ask
+Извините, связь прервалась на секунду. Можете повторить вопрос?;Sorry, you cut out for a second. Could you repeat the question?;english repair repair-ask
+Извините, какая была вторая часть вопроса?;Sorry, what was the second part of the question?;english repair repair-ask
+То есть вы имеете в виду …, верно?;So you mean …, right?;english repair repair-check
+Хочу убедиться, что понял: вы хотите, чтобы я …;Just to make sure I understand: you want me to …;english repair repair-check
+Вы спрашиваете про X или про Y?;Are you asking about X or Y?;english repair repair-check
+Не уверен, что понял вопрос.;I'm not sure I understood the question.;english repair repair-check
+Вы это имели в виду?;Is that what you meant?;english repair repair-check
+Я ответил на ваш вопрос?;Does that answer your question?;english repair repair-check
+Рассказать подробнее?;Do you want me to go into more detail?;english repair repair-check
+Можно пару уточняющих вопросов, прежде чем я начну?;Can I ask a couple of clarifying questions before I start?;english repair repair-check
+Дайте секунду подумать.;Let me think for a second.;english repair repair-time
+Начну с простого примера.;Let me start with a simple example.;english repair repair-time
+Как бы это сказать …;How should I put this …;english repair repair-time
+Другими словами …;In other words …;english repair repair-time
+Сначала расскажу, как буду решать.;Let me talk through my approach first.;english repair repair-time
+Извините, я хотел сказать …;Sorry, I meant …;english repair repair-time
+Извините, потерял мысль. Начну сначала.;Sorry, I lost my train of thought. Let me start over.;english repair repair-time
+Меня хорошо слышно? Экран видно?;Can you hear me OK? Can you see my screen?;english repair repair-time
+Не знаю, но начал бы с …;I don't know, but I'd start with …;english repair repair-unknown
+Я этим не пользовался, но примерно знаю, как оно работает.;I haven't used it, but I know roughly how it works.;english repair repair-unknown
+Не уверен, но думаю, что …;I'm not sure, but I think …;english repair repair-unknown
+С этим я ещё не работал. Вместо этого использовал X.;I haven't worked with that yet. I've used X instead.;english repair repair-unknown
+Мне нужно посмотреть в документации.;I'd need to check the documentation.;english repair repair-unknown
+Не помню точное название, но работает это так.;I can't remember the exact name, but it works like this.;english repair repair-unknown
+Можем вернуться к этому позже?;Can we come back to that later?;english repair repair-unknown
+Можете подсказать?;Could you give me a hint?;english repair repair-unknown
+Можешь посмотреть мой пул-реквест?;Could you take a look at my pull request?;english repair repair-request
+Можешь помочь мне с этим?;Could you help me with this?;english repair repair-request
+Понимаю твою мысль, но …;I see your point, but …;english repair repair-request
+Я в этом не уверен. А что если мы …;I'm not sure about that. What if we …;english repair repair-request
+Кажется, тут может быть проблема с …;I think there might be a problem with …;english repair repair-request
+Мне понадобится больше времени на это.;I'm going to need more time on this.;english repair repair-request
+Извините, что перебиваю, у меня вопрос.;Sorry to interrupt, but I have a question.;english repair repair-request
+Меня блокирует … / Блокеров нет.;I'm blocked on … / No blockers on my end.;english repair repair-request

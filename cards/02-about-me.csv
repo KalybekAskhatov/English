@@ -1,0 +1,12 @@
+#separator:Semicolon
+#html:false
+#columns:Front;Back;Tags
+#tags column:3
+Я фронтенд-разработчик.;I'm a frontend developer.;english about-me
+Я работаю с Angular и TypeScript.;I work with Angular and TypeScript.;english about-me
+Я живу в [город].;I'm based in [city].;english about-me
+Я разработчик уже [N] лет.;I've been a developer for [N] years.;english about-me
+В моей команде [N] человек.;My team has [N] people.;english about-me
+Мы делаем [продукт].;We build [product].;english about-me
+Я отвечаю за [что именно].;I'm responsible for [what].;english about-me
+Я каждый день пользуюсь [инструмент].;I use [tool] every day.;english about-me
